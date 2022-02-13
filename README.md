@@ -1,5 +1,5 @@
 # Alpine docker image
 
 ```sh
-docker pull ghcr.io/ludovic-muller/alpine:main
+docker pull ghcr.io/ludovic-muller/alpine
 ```
