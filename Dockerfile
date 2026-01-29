@@ -1,1 +1,1 @@
-FROM docker.io/library/alpine:3.23.2
+FROM docker.io/library/alpine:3.23.3
